@@ -11,7 +11,7 @@
 
   ##
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Joaovitor8708&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Joaovitor8708">
+    <img src="https://github-readme-stats.vercel.app/api?username=DanielsMario&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Joaovitor8708">
   </a>
 
  ## <h3>💻 Linguagens</h3>
